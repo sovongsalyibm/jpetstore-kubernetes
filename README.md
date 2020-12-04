@@ -31,6 +31,10 @@ cd jpetstore-kubernetes
 
 #### Code structure
 
+
+
+
+
 | Folder | Description |
 | ---- | ----------- |
 |[**jpetstore**](/jpetstore)| Traditional Java JPetStore application |
