@@ -12,7 +12,7 @@ image:
 namespace: ""
 
 ingress:
-  enabled: true
+  enabled: false
   hosts:
     - jpetstore-web.app # Ex: jpetstore.myclustername.us-south.containers.appdomain.cloud 
 
